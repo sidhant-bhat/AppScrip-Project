@@ -1,6 +1,6 @@
-# flutter_application_1
+# AppScrip Project
 
-A new Flutter project.
+Assignment project for an Intership/job opportunity at AppScrip.
 
 ## Getting Started
 
@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## How to run the app
+<ol>
+<li>Clone or download the code from the repository
+<li>Install any IDE, preferably VS Code and open the project root folder in it
+<li>Through the Extensions tab on the left side, search and install <b>Flutter Extension</b>
+<li>For hassle free experience, turn on Debug Mode in your Android phone through Developer settings and then connect the phone to your pc using USB Cable
+<li>Go to <b>lib</b> > right click on <b>main.dart</b> > Run without debugging
+<li>Please wait for a while for the app to launch on your mobile phone
+<li> The app is ready to use !!
+</ol>
